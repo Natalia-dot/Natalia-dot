@@ -17,7 +17,7 @@ Well, hi! As you might have guessed, I am Natalia, an aspiring fullstack web-dev
 If you want to take a look at what I've done, I'll leave some links down below for you to check, comment on, or well, fork even. And, most important of all, thank you for your time.
 Click on the icons to be redirected!
   <ul>
-    <li><a href='https://github.com/neolandsep2023'><img src='https://static-00.iconduck.com/assets.00/star-icon-2048x2048-vsj84iil.png' alt='A star icon' height='25px'/></a>=The final bootcamp project, both backend and frontend. Made with 
+    <li><a href='https://github.com/neolandsep2023'><img src='https://static-00.iconduck.com/assets.00/star-icon-2048x2048-vsj84iil.png' alt='A star icon' height='25px'/></a>The final bootcamp project, both backend and frontend. Made with 
       <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -40,7 +40,6 @@ Click on the icons to be redirected!
   </ul>
 </div>
 <div align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Natalia-dot&show_icons=true&locale=en" alt="Natalia-dot stats" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Natalia-dot&" alt="Natalia-dot stats" /></p>
 
