@@ -25,7 +25,7 @@ Click on the icons to be redirected!
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   </p>
       .</li>
-    <li><a href='https://github.com/eolimacion'><img src='https://static-00.iconduck.com/assets.00/star-icon-2048x2048-vsj84iil.png' alt='A star icon' height='25px'/></a>The final REACT project. Made with<b>React</b>.
+    <li><a href='https://github.com/eolimacion'><img src='https://static-00.iconduck.com/assets.00/star-icon-2048x2048-vsj84iil.png' alt='A star icon' height='25px'/></a>The final REACT project. Made with
     <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
