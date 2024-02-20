@@ -37,7 +37,7 @@ Click on the icons to be redirected!
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   </p>
       </li>
-    <li><a href='https://fifa-sports.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/> </a> <a href='https://github.com/eolimacion'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A star icon' height='20px'/></a>The final REACT project. Made with
+    <li><a href='https://fifa-sports.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a> <a href='https://github.com/eolimacion'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>The final REACT project. Made with
     <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -46,9 +46,9 @@ Click on the icons to be redirected!
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   </p>
 </li>
-    <li><a href='https://first-final-project.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/> </a><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/Pokeapi'><img src='https://cdn.icon-icons.com/icons2/851/PNG/512/Pokecenter_icon-icons.com_67531.png' alt='Poke-ball icon' height='20px'/></a> A pokemon themed game hub made with <b>Javascript</b> and <b>CSS</b>.</li>
-    <li><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/DataBase%20AM'><img src='https://i.pinimg.com/originals/dd/ff/78/ddff78d6454da4b78d45284e5444e77f.png' alt='The arctic monkeys band logo' height='20px'/></a> A database for my React project where I also practised seeding. Made with<b>Express</b> and <b>Mongo</b>.</li>
-    <li><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/DataBase AM'><img src='https://i.pinimg.com/originals/dd/ff/78/ddff78d6454da4b78d45284e5444e77f.png' alt='The arctic monkeys band logo' height='20px'/></a>The react frontend for the previous backend. Made with<b>React</b>.</li>
+    <li><a href='https://first-final-project.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/Pokeapi'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a> A pokemon themed game hub made with <b>Javascript</b> and <b>CSS</b>.</li>
+    <li><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/DataBase%20AM'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon logo' height='20px'/></a> A database for my React project where I also practised seeding. Made with<b>Express</b> and <b>Mongo</b>.</li>
+    <li><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/DataBase AM'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>The react frontend for the previous backend. Made with<b>React</b>.</li>
   </ul>
 </div>
 <div align="center"> 
