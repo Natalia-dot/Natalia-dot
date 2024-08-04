@@ -29,6 +29,8 @@ Well, hi! As you might have guessed, I am Natalia, an aspiring fullstack web-dev
 If you want to take a look at what I've done, I'll leave some links down below for you to check, comment on, or well, fork even. And, most important of all, thank you for your time.
 Click on the icons to be redirected!
   <ul>
+     <li><a href='https://fiber-examples-grimse3rj-natalias-projects-f5bd6704.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/Natalia-dot/fiber-examples/tree/main/5.-scene'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>
+       <p>My last endeavour: Three.js. Since my main goal is React, I've been using react three fiber, where I've learnt also about css animations to complement the 3D modelling on the scenes.</p>
     <li><a href='https://connect-a-mate.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/neolandsep2023'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>   The final bootcamp project, both backend and frontend. Made with 
       <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
