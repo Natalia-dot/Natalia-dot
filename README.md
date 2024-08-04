@@ -32,10 +32,13 @@ Click on the icons to be redirected!
     <br/>
      <li><a href='https://fiber-examples-grimse3rj-natalias-projects-f5bd6704.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/Natalia-dot/fiber-examples/tree/main/5.-scene'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>
        <p>My last endeavour: Three.js. Since my main goal is React, I've been using react three fiber, where I've learnt also about css animations to complement the 3D modelling on the scenes.</p>
+       <p align="center">
        <img alt="Static ThreeJS Badge" src="https://img.shields.io/badge/ThreeJS-000000?style=flat-square&logo=Three.js&logoColor=white">
        <img alt="Static react three fiber Badge" src="https://img.shields.io/badge/R3F-000000?style=flat-square&logo=nintendo3ds&logoColor=white">
+       </p>
        <br/>
-    <li><a href='https://connect-a-mate.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/neolandsep2023'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>   The final bootcamp project, both backend and frontend. Made with 
+    <li><a href='https://connect-a-mate.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/neolandsep2023'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>   
+      The final bootcamp project, both backend and frontend. Made with 
       <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
