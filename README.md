@@ -37,8 +37,8 @@ Click on the icons to be redirected!
        <img alt="Static react three fiber Badge" src="https://img.shields.io/badge/R3F-000000?style=flat-square&logo=nintendo3ds&logoColor=white">
        </p>
        <br/>
-    <li><a href='https://connect-a-mate.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/neolandsep2023'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>   
-      The final bootcamp project, both backend and frontend. Made with 
+    <li><a href='https://connect-phi-smoky.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/Natalia-dot/Connect'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>   
+     A fullstack project, made in the backend with nodeJS and the front through React. Implemented various functionalities, user authentication and lifecycle, bookmarking the posts and looking for people akin to oneself through the personalized rendering of interests, age and gender. Allows one to look for a room, for a roommate, to link a property to a post looking for a roommate, and a detailed location system.
       <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
