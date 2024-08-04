@@ -29,8 +29,10 @@ Well, hi! As you might have guessed, I am Natalia, an aspiring fullstack web-dev
 If you want to take a look at what I've done, I'll leave some links down below for you to check, comment on, or well, fork even. And, most important of all, thank you for your time.
 Click on the icons to be redirected!
   <ul>
+    <br/>
      <li><a href='https://fiber-examples-grimse3rj-natalias-projects-f5bd6704.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/Natalia-dot/fiber-examples/tree/main/5.-scene'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>
        <p>My last endeavour: Three.js. Since my main goal is React, I've been using react three fiber, where I've learnt also about css animations to complement the 3D modelling on the scenes.</p>
+       <br/>
     <li><a href='https://connect-a-mate.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/neolandsep2023'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>   The final bootcamp project, both backend and frontend. Made with 
       <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -39,6 +41,7 @@ Click on the icons to be redirected!
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   </p>
       </li>
+    <br/>
     <li><a href='https://sporting-gpah3eggb-natalias-projects-f5bd6704.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/Natalia-dot/Sports'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a> 
       <p>A sports database where you can check out your favorite Fifa, MotoGP and lifting athletes and share your ideal roster or team with your friends. Follow them and share your poll for the latest race or make your ideal football team. Favorite the athletes you want and access them via your own profile, where you can check out your own teams and favorited people. 
       Implements a verification process and user authentication. </p> <p>Made with</p>
@@ -50,8 +53,11 @@ Click on the icons to be redirected!
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   </p>
 </li>
+    <br/>
     <li><a href='https://first-final-project.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/Natalia-dot/Ejercicios/tree/main/Pokeapi'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>  A pokemon themed game hub made with <b>Javascript</b> and <b>CSS</b>.</li>
+    <br/>
     <li><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/DataBase%20AM'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon logo' height='20px'/></a>  A database for my React project where I also practised seeding. Made with<b>Express</b> and <b>Mongo</b>.</li>
+    <br/>
     <li><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/DataBase AM'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>  The react frontend for the previous backend. Made with<b>React</b>.</li>
   </ul>
 </div>
