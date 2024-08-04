@@ -34,7 +34,6 @@ Click on the icons to be redirected!
        <p>My last endeavour: Three.js. Since my main goal is React, I've been using react three fiber, where I've learnt also about css animations to complement the 3D modelling on the scenes.</p>
        <img alt="Static ThreeJS Badge" src="https://img.shields.io/badge/ThreeJS-000000?style=flat-square&logo=Three.js&logoColor=white">
        <img alt="Static react three fiber Badge" src="https://img.shields.io/badge/R3F-000000?style=flat-square&logo=nintendo3ds&logoColor=white">
-
        <br/>
     <li><a href='https://connect-a-mate.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/neolandsep2023'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>   The final bootcamp project, both backend and frontend. Made with 
       <p align="center">
