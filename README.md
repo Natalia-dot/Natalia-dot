@@ -38,24 +38,40 @@ Click on the icons to be redirected!
        </p>
        <br/>
     <li><a href='https://connect-phi-smoky.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/Natalia-dot/Connect'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>   <br/>
-     A fullstack project, made in the backend with nodeJS and the front through React. Implemented various functionalities, user authentication and lifecycle, bookmarking the posts and looking for people akin to oneself through the personalized rendering of interests, age and gender. Allows one to look for a room, for a roommate, to link a property to a post looking for a roommate, and a detailed location system.
+     A fullstack project, made in the backend with nodeJS and the front through React. Implemented various functionalities, user authentication and lifecycle, bookmarking the posts and looking for people akin to oneself through the personalized rendering of interests, age and gender. Allows one to look for a room, for a roommate, to link a property to a post looking for a roommate, and a detailed location system.<br/>
+      Made with:
       <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Static Leaflet Badge" src="https://img.shields.io/badge/Leaflet-%23199900?style=flat-square&logo=Leaflet&logoColor=white">
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Static MUI Badge" src="https://img.shields.io/badge/MUI-%23007FFF?style=flat-square&logo=MUI&logoColor=white">    
+  <img alt="Static JSon web token Badge" src="https://img.shields.io/badge/JSON%20Web%20Token-%23000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white">
+  <img alt="Static ESlint Badge" src="https://img.shields.io/badge/ESLint-%234B32C3?style=flat-square&logo=ESLint&logoColor=white">
+  <img alt="Static Axios Badge" src="https://img.shields.io/badge/Axios-%235A29E4?style=flat-square&logo=Axios&logoColor=white">
+
   </p>
       </li>
     <br/>
     <li><a href='https://sporting-gpah3eggb-natalias-projects-f5bd6704.vercel.app/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/1024px-Applications-internet.svg.png' alt='A web icon' height='20px'/></a>  <a href='https://github.com/Natalia-dot/Sports'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a> 
       <p>A sports database where you can check out your favorite Fifa, MotoGP and lifting athletes and share your ideal roster or team with your friends. Follow them and share your poll for the latest race or make your ideal football team. Favorite the athletes you want and access them via your own profile, where you can check out your own teams and favorited people. 
-      Implements a verification process and user authentication. </p> <p>Made with</p>
+      Implements a verification process and user authentication. </p> <p>Made with:</p>
     <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Static MUI Badge" src="https://img.shields.io/badge/MUI-%23007FFF?style=flat-square&logo=MUI&logoColor=white">
+  <img alt="Static JSon web token Badge" src="https://img.shields.io/badge/JSON%20Web%20Token-%23000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white">
+  <img alt="Static ESlint Badge" src="https://img.shields.io/badge/ESLint-%234B32C3?style=flat-square&logo=ESLint&logoColor=white">
+  <img alt="Static Axios Badge" src="https://img.shields.io/badge/Axios-%235A29E4?style=flat-square&logo=Axios&logoColor=white">
+
+
+
+
   </p>
 </li>
     <br/>
