@@ -79,7 +79,7 @@ Click on the icons to be redirected!
     <br/>
     <li><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/DataBase%20AM'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon logo' height='20px'/></a>  A database for my React project where I also practised seeding. Made with<b>Express</b> and <b>Mongo</b>.</li>
     <br/>
-    <li><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/DataBase AM'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>  The react frontend for the previous backend. Made with<b>React</b>.</li>
+    <li><a href='https://github.com/Natalia-dot/Ejercicios/tree/main/REACT/Ejercicios%20React/12.-Usuario'><img src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='A github icon' height='20px'/></a>  The react frontend for the previous backend. Made with<b>React</b>.</li>
   </ul>
 </div>
 <div align="center"> 
